@@ -19,10 +19,10 @@ In this repository, I will practice and experiment with various deep learning te
 
 2. Navigate to the project folder:
     ```bash
-    cd your-repo
+    cd deep-learning-projects
     ```
 
-3. Set up the environment and install the required dependencies:
+3. Set up the environment and install the required dependencies (WIP):
     - Install the dependencies using `pip` or `conda` depending on your setup.
     - Example with pip:
       ```bash
